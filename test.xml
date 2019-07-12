@@ -1,0 +1,37 @@
+<CorrelationTable>
+    <CorrelationEntry>
+        <CorrelationID>234</CorrelationID>
+        <NumberOfTrades>3</NumberOfTrades>
+        <Limit>1000</Limit>
+        <Value>100</Value>
+        <TradeId>654</TradeId>
+    </CorrelationEntry>
+   <CorrelationEntry>
+        <CorrelationID>234</CorrelationID>
+        <NumberOfTrades>3</NumberOfTrades>
+        <Limit>1000</Limit>
+        <Value>200</Value>
+        <TradeId>135</TradeId>
+    </CorrelationEntry>
+    <CorrelationEntry>
+        <CorrelationID>222</CorrelationID>
+        <NumberOfTrades>1</NumberOfTrades>
+        <Limit>500</Limit>
+        <Value>600</Value>
+        <TradeId>423</TradeId>
+    </CorrelationEntry>
+    <CorrelationEntry>
+        <CorrelationID>234</CorrelationID>
+        <NumberOfTrades>3</NumberOfTrades>
+        <Limit>1000</Limit>
+        <Value>200</Value>
+        <TradeId>652</TradeId>
+    </CorrelationEntry>
+    <CorrelationEntry>
+        <CorrelationID>200</CorrelationID>
+        <NumberOfTrades>2</NumberOfTrades>
+        <Limit>2000</Limit>
+        <Value>1000</Value>
+        <TradeId>645</TradeId>
+    </CorrelationEntry>
+</CorrelationTable>
